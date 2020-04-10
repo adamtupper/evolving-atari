@@ -1,3 +1,7 @@
 theme: jekyll-theme-cayman
 title: Evolving Atari
 description: Research in evolutionary reinforcement learning and general video game playing (GVGP).
+
+github:
+  full_paper: True
+  full_paper_url: '#'

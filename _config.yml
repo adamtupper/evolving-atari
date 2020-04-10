@@ -5,3 +5,7 @@ description: Research in evolutionary reinforcement learning and general video g
 github:
   full_paper: True
   full_paper_url: '#'
+
+pubs:
+  gecco20: True
+  gecco20_url: '#'

@@ -35,6 +35,9 @@
         {% if site.github.full_paper %}
         <a href="{{ site.github.full_paper_url }}" class="btn"><i class="far fa-file-pdf"></i>&emsp;Full Paper</a>
         {% endif %}
+        {% if site.pubs.gecco20 %}
+        <a href="{{ site.pubs.gecco20_url }}" class="btn"><i class="far fa-bookmark"></i>&emsp;GECCO '20</a>
+        {% endif %}
         {% if site.show_downloads %}
         <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
         <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>

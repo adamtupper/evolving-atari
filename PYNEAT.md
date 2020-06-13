@@ -1,6 +1,8 @@
+---
 layout: page
 title: "PyNEAT"
 permalink: /pyneat/
+---
 
 # PyNEAT: A Python Implementation of NEAT
 

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Evolving agents that use Compact State Representations"
 permalink: /atariari-agents/
 ---

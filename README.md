@@ -14,5 +14,5 @@ reach out to me.
 
 # Explore
 
-* :seedling: [PyNEAT: A Python Implementation of NEAT](PYNEAT.md)
-* :space_invader: [Evolving Agents that use Compact State Representations](ATARIARI-AGENTS.md)
+* :seedling: [PyNEAT: A Python Implementation of NEAT](http://evolvingatari.adamtupper.nz/pyneat/)
+* :space_invader: [Evolving Agents that use Compact State Representations](http://evolvingatari.adamtupper.nz/atariari-agents/)

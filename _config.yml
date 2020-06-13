@@ -4,8 +4,11 @@ description: Research in evolutionary reinforcement learning and general video g
 
 github:
   full_paper: True
-  full_paper_url: '#'
+  full_paper_url: 'https://1drv.ms/b/s!AimVYRvfZPYYgahB8kioVcg1kZBcEg'
 
 pubs:
   gecco20: True
   gecco20_url: '#'
+
+plugins:
+  - jemoji

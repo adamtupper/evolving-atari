@@ -4,11 +4,11 @@ description: Research in evolutionary reinforcement learning and general video g
 
 github:
   full_paper: True
-  full_paper_url: 'https://1drv.ms/b/s!AimVYRvfZPYYgahB8kioVcg1kZBcEg'
+  full_paper_url: 'https://github.com/adamtupper/evolving-atari/blob/master/Evolving%20Neural%20Network%20Agents%20to%20Play%20Atari%20Games%20with%20Compact%20State%20Representations%20(Full%20Paper).pdf'
 
 pubs:
   gecco20: True
-  gecco20_url: '#'
+  gecco20_url: 'https://dl.acm.org/doi/abs/10.1145/3377929.3390072'
 
 plugins:
   - jemoji
